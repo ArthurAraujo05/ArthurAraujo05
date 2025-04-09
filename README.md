@@ -20,18 +20,18 @@
 <h3 align="center">Tecnologias</h3>
 
 <p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" height="50" alt="HTML">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" height="50" alt="CSS">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" height="50" alt="JavaScript">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" height="50" alt="NodeJS">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" height="50" alt="MySQL">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" height="50" alt="Python">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_java_icon_130540.png" height="50" alt="Java">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/docker_icon_130643.png" height="50" alt="Docker">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/amazon_aws_icon_130931.png" height="50" alt="AWS">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/git_icon_130581.png" height="50" alt="Git">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/nextjs_icon_130936.png" height="50" alt="Next.js">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_wordmark_logo_icon_146545.png" height="50" alt=".NET">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt=".NET" />
 </p>
 
 ##
