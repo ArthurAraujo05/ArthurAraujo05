@@ -1,11 +1,5 @@
 <h3 align="center">Olá! Eu sou o Arthur 👋</h3>
 
-<p align="center">
-  Atuo como QA Engineer na IBM, contribuindo com qualidade de software em um dos maiores projetos do setor bancário, o Itaú. <br>
-  Sou apaixonado por tecnologia, testes automatizados, qualidade de código e boas práticas de desenvolvimento.<br>
-  Sempre em busca de aprender mais, evoluir como desenvolvedor e entregar soluções que realmente façam a diferença.
-</p>
-
 ##
 
 <div align="center">
@@ -17,26 +11,22 @@
 
 ##
 
-<h3 align="center">Tecnologias</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="NodeJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" height="50" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt=".NET" />
-</p>
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=html">
+	<img src="https://skillicons.dev/icons?i=css">
+	<img src="https://skillicons.dev/icons?i=ts">
+	<img src="https://skillicons.dev/icons?i=py">
+	<img src="https://skillicons.dev/icons?i=nodejs">
+	<img src="https://skillicons.dev/icons?i=react">
+	<img src="https://skillicons.dev/icons?i=next">
+	<img src="https://skillicons.dev/icons?i=mysql">
+	<img src="https://skillicons.dev/icons?i=mongodb">
+	<img src="https://skillicons.dev/icons?i=docker">
+	<img src="https://skillicons.dev/icons?i=aws">
+	<img src="https://skillicons.dev/icons?i=git">
+</div>
 
 ##
-
-<h3 align="center">Entre em contato</h3>
 
 <p align="center">
   <a href="mail:arthurguiaraujo123@gmail.com" target="_blank">
