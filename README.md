@@ -13,6 +13,7 @@
 
 <div align="center">
 	<img src="https://skillicons.dev/icons?i=html">
+	<img src="https://skillicons.dev/icons?i=kafka">
 	<img src="https://skillicons.dev/icons?i=css">
 	<img src="https://skillicons.dev/icons?i=ts">
 	<img src="https://skillicons.dev/icons?i=py">
