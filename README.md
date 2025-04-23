@@ -13,7 +13,6 @@
 
 <div align="center">
 	<img src="https://skillicons.dev/icons?i=html">
-	<img src="https://skillicons.dev/icons?i=kafka">
 	<img src="https://skillicons.dev/icons?i=css">
 	<img src="https://skillicons.dev/icons?i=ts">
 	<img src="https://skillicons.dev/icons?i=py">
@@ -24,6 +23,7 @@
 	<img src="https://skillicons.dev/icons?i=mysql">
 	<img src="https://skillicons.dev/icons?i=mongodb">
 	<img src="https://skillicons.dev/icons?i=docker">
+	<img src="https://skillicons.dev/icons?i=kafka">
 	<img src="https://skillicons.dev/icons?i=aws">
 	<img src="https://skillicons.dev/icons?i=git">
 </div>
